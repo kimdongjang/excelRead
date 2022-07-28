@@ -1,7 +1,12 @@
 # xy.js 
 ## 특정 좌표를 위도 경도로 변환
-https://www.npmjs.com/package/proj4 참고
-``` npm i proj4 ```
+https://www.npmjs.com/package/proj4 참고  
+  
+``` npm i proj4 ```  
+
+---
+## 파라미터값
+
 *WGS84 경위도
 
 - EPSG:4326
@@ -159,4 +164,5 @@ https://www.npmjs.com/package/proj4 참고
 
 - +proj=tmerc +lat_0=38 +lon_0=131 +k=1 +x_0=200000 +y_0=600000 +ellps=GRS80 +units=m +no_defs
 
+---
 
