@@ -181,7 +181,7 @@ https://api.ncloud-docs.com/docs/ai-naver-mapsgeocoding
         },
       }
 ```
-* 앱 등록시 발급 받은 ClientId와 ClientSecret정보가 필요함
+* 앱 등록시 발급 받은 ClientId와 ClientSecret정보가 필요함  
 ![image](https://user-images.githubusercontent.com/41901043/181433726-2dfd5ce6-6a31-493c-a983-45bab62bf052.png)
 
 
