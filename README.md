@@ -166,3 +166,24 @@ https://www.npmjs.com/package/proj4 참고
 
 ---
 
+# excel.js
+## 특정 주소로 위도 경도 검색
+### naver cloud api Geocoding 사용
+https://api.ncloud-docs.com/docs/ai-naver-mapsgeocoding
+```js
+ const options = {
+        headers: {
+          "X-NCP-APIGW-API-KEY-ID": "",
+          "X-NCP-APIGW-API-KEY": ""
+        },
+        params: {
+          query: "조회하려는 주소(도로명 or 지번)"
+        },
+      }
+```
+* 앱 등록시 발급 받은 ClientId와 ClientSecret정보가 필요함
+![image](https://user-images.githubusercontent.com/41901043/181433726-2dfd5ce6-6a31-493c-a983-45bab62bf052.png)
+
+
+
+
