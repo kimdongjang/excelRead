@@ -111,8 +111,8 @@ async function test(){
     if(!isSame){      
       const options = {
         headers: {
-          "X-NCP-APIGW-API-KEY-ID": "oojbrtznz5",
-          "X-NCP-APIGW-API-KEY": "7bqm7g4eLovRMbI0Sp7BiLwpH14BqjmqOiByF7Bs"
+          "X-NCP-APIGW-API-KEY-ID": "",
+          "X-NCP-APIGW-API-KEY": ""
         },
         params: {
           query: value.소재지전체주소
